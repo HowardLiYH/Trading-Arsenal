@@ -5,6 +5,7 @@ Source: Supervised Learning, Week 1, Coursera Assignment
 Description: Gradient Descent for Linear Regression
 '''
 import math
+import copy
 
 #Function to calculate the cost
 def compute_cost(x, y, w, b):

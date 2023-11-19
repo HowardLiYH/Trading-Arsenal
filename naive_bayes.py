@@ -5,6 +5,24 @@ Description: Naive Bayes Classifier
 '''
 
 import re
+import numpy as np
+
+def lookup(freqs, word, label):
+    '''
+    Input:
+        freqs: dictionary from (word, label) to how often the word appears
+        word: the word to look up
+        label: the label corresponding to the word
+    Output:
+        n: the number of times the word with its corresponding label appears
+    '''
+    n = 0  # initialize the count to 0
+
+    # retrieve count from the freqs dictionary for the (word, label) pair
+    if (word, label) in freqs:
+        n = freqs[(word, label)]
+
+    return n
 
 
 def train_naive_bayes(freqs, train_x, train_y):
