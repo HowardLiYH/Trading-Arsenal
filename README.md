@@ -9,5 +9,7 @@ This repository should mainly be used for educational purposes as its real marke
 
 ## Methodologies
 - Gradient Descent for Word Embeddings (Forebinus Norm)
+- Gradient Descent for Linear Regression
+- Gradient Descent for Logistic Regression
 - K-Nearest Neighbour (Cosine Similarity, Euclidean Distance)
 - Hash Table
