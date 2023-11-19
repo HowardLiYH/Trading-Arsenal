@@ -8,6 +8,6 @@ All the methodologies included will be written in full detail (or as detailed as
 This repository should mainly be used for educational purposes as its real market performance should be tested and applied to the user's own intent.
 
 ## Methodologies
-- Gradient Descent 
+- Gradient Descent for Word Embeddings (Forebinus Norm)
 - K-Nearest Neighbour (Cosine Similarity, Euclidean Distance)
 - Hash Table
