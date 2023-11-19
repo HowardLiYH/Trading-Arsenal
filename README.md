@@ -13,3 +13,4 @@ This repository should mainly be used for educational purposes as its real marke
 - Gradient Descent for Logistic Regression
 - K-Nearest Neighbour (Cosine Similarity, Euclidean Distance)
 - Hash Table
+- Naive Bayes Classifier
