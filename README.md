@@ -16,3 +16,4 @@ This repository should mainly be used for educational purposes as its real marke
 - Euclidean Distance
 - Hash Table
 - Naive Bayes Classifier
+- Principal Component Analysis 
