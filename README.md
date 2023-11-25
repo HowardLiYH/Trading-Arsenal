@@ -67,4 +67,7 @@ This repository should mainly be used for educational purposes as its real marke
 - Tweezer Bottom - Bullish
 - Tweezer Top - Bearish
 - Upside Tasuki Gap - Bullish
-- 
+
+## Plan
+1. Build Engulfing (Bearish & Bullish) and Doji
+2. Use Engulfing to open position and Doji to close
