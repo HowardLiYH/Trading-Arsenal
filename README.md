@@ -7,7 +7,7 @@ This repository includes a range of methodologies that can be used for trading i
 All the methodologies included will be written in full detail (or as detailed as it possibly can be) to avoid errors or confusion from the packages.
 This repository should mainly be used for educational purposes as its real market performance should be tested and applied to the user's own intent.
 
-## Methodologies
+## Academia Concepts
 - Gradient Descent for Word Embeddings (Forebinus Norm)
 - Gradient Descent for Linear Regression
 - Gradient Descent for Logistic Regression
@@ -16,4 +16,15 @@ This repository should mainly be used for educational purposes as its real marke
 - Euclidean Distance
 - Hash Table
 - Naive Bayes Classifier
-- Principal Component Analysis 
+- Principal Component Analysis
+
+## Patterns
+- Bearish Flag Chart Pattern & Bullish Flag Chart Pattern
+- Double Bottom Chart Pattern & Double Top Chart Pattern
+- Elliot Wave Chart Pattern
+- Head And Shoulders Chart Pattern
+- Inverse Head And Shoulders Chart Pattern
+- Bearish Pennant Chart Pattern & Bullish Pennant Chart Pattern
+- Rectangle Chart Pattern & Triangle Chart Pattern
+- Triple Bottom Chart Pattern & Triple Top Chart Pattern
+- Falling Wedge Chart Pattern and Rising Wedge Chart Pattern
