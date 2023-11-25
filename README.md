@@ -18,7 +18,7 @@ This repository should mainly be used for educational purposes as its real marke
 - Naive Bayes Classifier
 - Principal Component Analysis
 
-## Patterns
+## Chart Patterns
 - Bearish Flag Chart Pattern & Bullish Flag Chart Pattern
 - Double Bottom Chart Pattern & Double Top Chart Pattern
 - Elliot Wave Chart Pattern
@@ -28,3 +28,43 @@ This repository should mainly be used for educational purposes as its real marke
 - Rectangle Chart Pattern & Triangle Chart Pattern
 - Triple Bottom Chart Pattern & Triple Top Chart Pattern
 - Falling Wedge Chart Pattern and Rising Wedge Chart Pattern
+
+## Candlestick Patterns
+- Abandoned Baby (Bearish & Bullish)
+- Dark Cloud Cover - Bearish
+- Doji
+- Doji Star (Bearish & Bullish)
+- Downside Tasuki Gap - Bearish
+- Dragonfly Doji - Bullish
+- Engulfing (Bearish & Bullish)
+- Evening Doji Star - Bearish
+- Evening Star - Bearish
+- Falling Three Methods - Bearish
+- Falling Window - Bearish
+- Gravestone Doji - Bearish
+- Hammer - Bullish
+- Hanging Man - Bearish
+- Harami (Bearish & Bullish)
+- Harami Cross (Bearish & Bullish)
+- Inverted Hammer - Bullish
+- Kicking (Bearish & Bullish)
+- Long Lower Shadow - Bearish
+- Long Upper Shadow - Bullish
+- Marubozu Black - Bearish
+- Marubozu White - Bullish
+- Morning Doji Star - Bullish
+- Morning Star - Bullish
+- On Neck - Bearish
+- Piercing - Bullish
+- Rising Three Methods - Bullish
+- Rising Window - Bullish
+- Shooting Star - Bearish
+- Spinning Top Black
+- Spinning Top White
+- Three Black Crows - Bearish
+- Three White Soldiers - Bullish
+- Tri-Star (Bearish & Bullish)
+- Tweezer Bottom - Bullish
+- Tweezer Top - Bearish
+- Upside Tasuki Gap - Bullish
+- 
