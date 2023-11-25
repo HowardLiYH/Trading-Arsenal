@@ -70,4 +70,5 @@ This repository should mainly be used for educational purposes as its real marke
 
 ## Plan
 1. Build Engulfing (Bearish & Bullish) and Doji
-2. Use Engulfing to open position and Doji to close
+2. Use Engulfing to open the position and Doji to close
+3. Test out 4h hours first
