@@ -68,7 +68,24 @@ This repository should mainly be used for educational purposes as its real marke
 - Tweezer Top - Bearish
 - Upside Tasuki Gap - Bullish
 
-## Plan
+# Plan
 1. Build Engulfing (Bearish & Bullish) and Doji
 2. Use Engulfing to open the position and Doji to close
 3. Test out 4h hours first
+
+## Issues with Engulfing 
+1. False Signals in Ranging Markets: In sideways or ranging markets, engulfing patterns may frequently appear but can provide misleading signals as the market lacks a clear trend.
+
+2. Context Dependency: The reliability of an engulfing pattern significantly depends on the market context and preceding price action. Without the right context, such as a strong preceding trend, the pattern may not be a reliable indicator.
+
+3. Lack of Precision: The engulfing pattern doesn't provide precise entry or exit points. It indicates a potential reversal, but the exact timing can be ambiguous, requiring further confirmation from other indicators or analysis methods.
+
+4. Subjectivity in Identification: Identifying an engulfing pattern can sometimes be subjective. Different traders might interpret the pattern differently, leading to inconsistent application.
+
+5. Delay in Confirmation: Engulfing patterns require the completion of two candlesticks for confirmation. This delay can mean missing out on a portion of the price move, especially in fast-moving markets.
+
+6. Vulnerability to Economic News and Events: In forex trading, major economic news and events can dramatically impact currency values, rendering technical patterns like engulfing indicators less effective or entirely irrelevant during such times.
+
+7. Size and Proportion Issues: The size and proportion of the candles in the engulfing pattern can vary, affecting its reliability. Larger engulfing candles are generally seen as more significant, but this can also depend on the market and the asset.
+
+8. Need for Complementary Indicators: Engulfing patterns are often used with other indicators (like moving averages, RSI, etc.) for better accuracy. Relying solely on engulfing patterns can increase the risk of false signals.
